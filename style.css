@@ -1,0 +1,10 @@
+/* Css Style */
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: 0;
+}
+body {
+  font-family: serif;
+  background: #ddd;
+}
