@@ -8,3 +8,8 @@ body {
   font-family: serif;
   background: #ddd;
 }
+
+h1 {
+  font-style: italic;
+  font-size: 32px;
+}
