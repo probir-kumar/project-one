@@ -6,7 +6,10 @@
 }
 body {
   font-family: serif;
-  background: #ddd;
+  background: url(images/bg.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
 }
 
 h1 {
